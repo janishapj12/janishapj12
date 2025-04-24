@@ -13,10 +13,10 @@
 
 ## 📊 GitHub Stats:
 
-![Mali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=dark)
+![Mali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=janishapj12&show_icons=true&theme=dark)
 <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" align ='right' width="350" height="300" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=janishapj12&layout=compact&theme=dark)
 
 ---
 
